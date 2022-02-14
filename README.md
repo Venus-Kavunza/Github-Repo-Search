@@ -15,7 +15,7 @@ You can install it with the following command in your terminal
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone
-https://venus-kavunza.github.io/Favourite-Quotes-app/
+https://venus-kavunza.github.io/Github-Repo-Search/
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__:)__
 ### Behavior Driven Development
